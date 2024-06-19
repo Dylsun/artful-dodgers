@@ -1,0 +1,20 @@
+/* CSS HEX 
+--cordovan: #8e4a49ff;
+--smokey black: #12100E;
+--antique-white: #ffe8d1ff;
+--cadet-gray: #77a0a9ff;
+--raw-umber: #826251ff;*/
+.App {
+  text-align: center;
+}
+body {
+  text-align: left;
+  background-color: #12100e;
+  color: #ffe8d1ff;
+}
+p {
+  color: #8e4a49ff;
+}
+h3 {
+  color: #826251ff;
+}

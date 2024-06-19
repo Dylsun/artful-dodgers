@@ -1,0 +1,76 @@
+/* CSS HEX 
+--cordovan: #8e4a49ff;
+--smokey black: #12100E;
+--antique-white: #ffe8d1ff;
+--cadet-gray: #77a0a9ff;
+--raw-umber: #826251ff;
+
+this is our custom css for the cart component including
+custom elements for our info modal, shipping drop down and buttons*/
+h3 {
+  color: #ffe8d1ff;
+}
+.cart-container {
+  background-color: #12100e;
+  color: #ffe8d1ff;
+  padding: 200px;
+  border-radius: 5px;
+}
+
+.customCart {
+  background-color: #77a0a9ff;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 12px;
+  color: #12100e;
+  border-color: #12100e;
+}
+
+.my-3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ml-3 {
+  margin-left: 1rem;
+}
+.custom-button {
+  background-color: #8e4a49ff;
+  border-color: #8e4a49ff;
+  color: #ffe8d1ff;
+}
+.custom-button:hover {
+  background-color: #ffe8d1ff;
+  color: #12100e;
+  border-color: #ffe8d1ff;
+}
+
+#shipping-dropdown {
+  background-color: #77a0a9ff;
+  color: #ffe8d1ff;
+  border-color: #12100e;
+}
+#shipping-dropdown:hover {
+  background-color: #8e4a49ff;
+  color: #12100e;
+  border-color: #12100e;
+}
+.custom-info {
+  background-color: #8e4a49ff;
+  color: #ffe8d1ff;
+  border-color: #12100e;
+}
+.custom-info:hover {
+  background-color: #77a0a9ff;
+  border-color: #77a0a9ff;
+}
+.custom-dropdown {
+  background-color: #12100e;
+  color: #ffe8d1ff;
+}
+.totals {
+  padding-top: 10%;
+}
+.modal-title {
+  color: #12100e;
+}

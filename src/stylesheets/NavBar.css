@@ -1,0 +1,43 @@
+/* CSS HEX 
+--cordovan: #8e4a49ff;
+--smokey black: #12100E;
+--antique-white: #ffe8d1ff;
+--cadet-gray: #77a0a9ff;
+--raw-umber: #826251ff;
+
+this is our navbar Css and is responsible for styling the navbar*/
+.custom-navbar {
+  background-color: #826251ff !important;
+  border-bottom: 5px solid #ffe8d1ff !important;
+  border-top: 5px solid #ffe8d1ff !important;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.custom-navbar .nav-link {
+  color: #ffe8d1ff !important;
+}
+/*hover effects for the nav menu*/
+
+.custom-navbar .nav-link:hover {
+  color: #77a0a9ff !important;
+  border-bottom: 5px double !important;
+  border-top: 5px double !important;
+}
+
+.welcome-user {
+  color: #ffe8d1ff !important;
+  text-align: right !important;
+}
+/*hover effects for the Title heading*/
+.custom-navbar .navbar-brand:hover {
+  color: #77a0a9ff !important;
+}
+.custom-navbar .navbar-brand {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 68px;
+  text-align: center;
+  padding-left: 50%;
+  color: #ffe8d1ff !important;
+}
